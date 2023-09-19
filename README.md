@@ -12,5 +12,3 @@ Skills: JAVA / SQL / GIT / JUnit 5 / TDD / JIRA
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PawelJanowicz1)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PawelJanowicz1)  
-
