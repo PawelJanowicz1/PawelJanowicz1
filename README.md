@@ -32,7 +32,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paweljanowicz1&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="paweljanowicz1" /></p> 
 
 
-![Codewars](https://github.r2v.ch/codewars?user=PawelJanowicz&stroke=darkslateblue)
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=PawelJanowicz&theme=dark)](https://github.com/ignacio-cuadra/github-readme-codewars)
+
 
 
 
