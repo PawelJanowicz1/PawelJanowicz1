@@ -1,13 +1,26 @@
-<h1 align="center">Hi 👋, I'm Paweł</h1>
-<h3 align="center">I'm currently attending a Java course at Software Development Academy.</h3>
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
+<p align="center">
+    <h1 align="center">✩&emsp;Paweł Janowicz&emsp;✩</h1>
+</p>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<hr>
 
-- 🔭 I’m currently working on **ONLINE SHOP PROJECT**
+➡🔭 I’m currently working on **ONLINE SHOP PROJECT**
 
-- 🌱 I’m currently learning   **SPRING**
+➡ 🌱 I’m currently learning   **SPRING**
 
-- 👨‍💻 All of my projects are available at [https://github.com/PawelJanowicz1?tab=repositories](https://github.com/PawelJanowicz1?tab=repositories)
+➡ 👨‍💻 All of my projects are available at [https://github.com/PawelJanowicz1?tab=repositories](https://github.com/PawelJanowicz1?tab=repositories)
 
-- 📫 How to reach me **janowiczpawel4@gmail.com**
+➡ 📫 How to reach me **janowiczpawel4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
