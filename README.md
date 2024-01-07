@@ -41,3 +41,5 @@
 
 
 ![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=PawelJanowicz&theme=dark)
+
+
