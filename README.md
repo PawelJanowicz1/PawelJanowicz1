@@ -41,3 +41,4 @@ jo<img align="left" src="https://user-images.githubusercontent.com/65187002/1449
 
 
 ![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=PawelJanowicz&theme=dark)
+
