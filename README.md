@@ -14,9 +14,9 @@
 <br>
 <hr>
 
-➡🔭 I’m currently working on **ONLINE SHOP PROJECT**
+➡🔭 I’m currently working on [**ONLINE SHOP PROJECT**](https://github.com/PawelJanowicz1/BestBuyKamps)
 
-➡ 👨‍💻 All of my projects are available at [https://github.com/PawelJanowicz1?tab=repositories](https://github.com/PawelJanowicz1?tab=repositories)
+➡ 👨‍💻 All of my projects are available [**HERE**](https://github.com/PawelJanowicz1?tab=repositories)
 
 ➡ 📫 How to reach me **janowiczpawel4@gmail.com**
 
