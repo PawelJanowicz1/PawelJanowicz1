@@ -1,5 +1,5 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline; max-width: 100px;">
-<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline; max-width: 100px;">
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline; max-width: 150px;">
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline; max-width: 150px;">
 
 <p align="center">
     <h1 align="center">✩&emsp;Java Developer&emsp;✩</h1>
@@ -15,7 +15,7 @@
 <br>
 <hr>
 
-➡🔭 I’m currently working on [**ONLINE SHOP PROJECT**](https://github.com/PawelJanowicz1/BestBuyKamps)
+➡🔭 I’m currently working on [**ONLINE SHOP**](https://github.com/PawelJanowicz1/BestBuyKamps)
 
 ➡ 👨‍💻 All of my projects are available [**HERE**](https://github.com/PawelJanowicz1?tab=repositories)
 
