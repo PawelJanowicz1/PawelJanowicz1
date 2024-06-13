@@ -30,13 +30,13 @@
         <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
         <a href="https://hibernate.org" target="_blank" rel="noreferrer"><img src="https://fs.siteor.com/javatech/files/hibernate2.png" alt="hibernate" width="40" height="40"/></a>
         <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"><img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit5" width="40" height="40"/></a>
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/mysql-original-wordmark-icon-1024x532-p138xy0y.png" alt="mysql" width="70" height="40"></a>
     </p>
     <li style="font-size: 1.5em; font-weight: bold; color: #FF5722;">FRONTEND</li>
     <p align="left">
-        <a href="https://www.javascript.com" target="_blank" rel="noreferrer"><img src="https://static.vecteezy.com/system/resources/previews/027/127/463/original/javascript-logo-javascript-icon-transparent-free-png.png" alt="javascript" width="40" height="40" style="margin-top: 40px"/></a>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+        <a href="https://www.javascript.com" target="_blank" rel="noreferrer"><img src="https://www.w3schools.com/whatis/img_js.png" alt="javascript" width="40" height="40"></a>
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"></a>
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/css3-original-icon-1806x2048-a0n1h2aq.png" alt="css3" width="40" height="40"></a>
     </p>
     <li style="font-size: 1.5em; font-weight: bold; color: #3F51B5;">OTHERS</li>
     <p align="left">
