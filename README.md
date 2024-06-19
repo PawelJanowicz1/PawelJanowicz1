@@ -40,10 +40,12 @@
     </p>
     <li style="font-size: 1.5em; font-weight: bold; color: #3F51B5;">OTHERS</li>
     <p align="left">
+        <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/thumbs/2x/linux-tux-1-logo.png" alt="linux" width="50" height="40"/>  
         <a href="https://www.git-scm.com" target="_blank" rel="noreferrer"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="40" height="40"/></a>
         <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/docker-icon-2048x2048-5mc7mvtn.png" alt="docker" width="40" height="40"/></a>
         <a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="40" height="40"/></a>
-        <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/apps-jira-icon-2048x2048-u2czanhx.png" alt="jira" width="40" height="40"/></a>
+        <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/apps-jira-icon-2048x2048-u2czanhx.png" alt="jira" width="40" height="40"/>
+    </a> 
         <a href="https://www.scrum.org" target="_blank" rel="noreferrer"><img src="https://www.scrum.org/themes/custom/scrumorg_v2/assets/images/logo-250.png" alt="scrum" width="40" height="40"/></a>
     </p>
     <li style="font-size: 1.5em; font-weight: bold; color: #3F51B5;">SOCIALS</li>
