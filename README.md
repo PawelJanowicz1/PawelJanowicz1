@@ -7,15 +7,20 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+I'm+Paweł!;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
 </p>
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <hr>
 
 ➡ 💼 I’m currently working at [**Codepred**](https://codepred.pl)
 
-➡ 📫 How to reach me **janowiczpawel4@gmail.com**
-<br>
+➡ 👨‍💻 All of my projects are available [**HERE**](https://github.com/PawelJanowicz1?tab=repositories)
 
-<br>
+➡ 📫 How to reach me **janowiczpawel4@gmail.com**
+
 <h3 align="left">Tech Stack :</h3>
 
 <ul style="list-style-type: disc;">
