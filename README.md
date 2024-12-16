@@ -15,8 +15,6 @@
 <br>
 <hr>
 
-➡ 💼 I’m currently working at [**Codepred**](https://codepred.pl)
-
 ➡ 👨‍💻 All of my projects are available [**HERE**](https://github.com/PawelJanowicz1?tab=repositories)
 
 ➡ 📫 How to reach me **janowiczpawel4@gmail.com**
