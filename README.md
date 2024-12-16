@@ -33,8 +33,6 @@
     </p>
     <li style="font-size: 1.5em; font-weight: bold; color: #FF5722;">FRONTEND</li>
     <p align="left">
-        <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"></a>
-        <a href="https://angular.dev" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/A/angular-icon-logo-5FC0C40EAC-seeklogo.com.png" alt="angular" width="40" height="40"></a>
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"></a>
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"></a> 
     </p>
