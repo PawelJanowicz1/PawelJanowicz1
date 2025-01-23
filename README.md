@@ -15,10 +15,6 @@
 <br>
 <hr>
 
-➡ 👨‍💻 All of my projects are available [**HERE**](https://github.com/PawelJanowicz1?tab=repositories)
-
-➡ 📫 How to reach me **janowiczpawel4@gmail.com**
-
 <h3 align="left">Tech Stack :</h3>
 
 <ul style="list-style-type: disc;">
