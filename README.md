@@ -21,7 +21,7 @@
     <li style="font-size: 1.5em; font-weight: bold; color: #4CAF50;">BACKEND</li>
     <p align="left">
         <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-        <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
+        <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1200px-Spring_Boot.svg.png" alt="spring" width="40" height="40"/></a>
         <a href="https://hibernate.org" target="_blank" rel="noreferrer"><img src="https://fs.siteor.com/javatech/files/hibernate2.png" alt="hibernate" width="40" height="40"/></a>
         <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"><img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit5" width="40" height="40"/></a> 
         <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ZYtHv2OLXmthRPbkmENZRXuqBVDwlsrZ1A&s" alt="mongodb" width="40" height="40"></a>
