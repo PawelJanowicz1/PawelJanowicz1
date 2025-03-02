@@ -34,6 +34,8 @@
     </p>
     <li style="font-size: 1.5em; font-weight: bold; color: #3F51B5;">OTHERS</li>
     <p align="left">
+        <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://www.telestream.net/aws/images/aws.png" alt="aws" width="50" height="40"/></a>
+        <a href="https://kafka.apache.org" target="_blank" rel="noreferrer"><img src="https://openwhisk.apache.org/images/icons/icon-kafka-white-trans-tall.png" alt="kafka" width="40" height="40"/></a>
         <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/thumbs/2x/linux-tux-1-logo.png" alt="linux" width="50" height="40"/></a>  
         <a href="https://www.git-scm.com" target="_blank" rel="noreferrer"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="40" height="40"/></a>
         <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
