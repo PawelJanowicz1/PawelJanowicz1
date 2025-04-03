@@ -23,6 +23,7 @@
         <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
         <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1200px-Spring_Boot.svg.png" alt="spring" width="40" height="40"/></a>
         <a href="https://hibernate.org" target="_blank" rel="noreferrer"><img src="https://fs.siteor.com/javatech/files/hibernate2.png" alt="hibernate" width="40" height="40"/></a>
+        <a href="https://kafka.apache.org" target="_blank" rel="noreferrer"><img src="https://openwhisk.apache.org/images/icons/icon-kafka-white-trans-tall.png" alt="kafka" width="40" height="40"/></a>
         <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"><img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit5" width="40" height="40"/></a> 
         <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ZYtHv2OLXmthRPbkmENZRXuqBVDwlsrZ1A&s" alt="mongodb" width="40" height="40"></a>
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="70" height="40"></a>
@@ -35,7 +36,6 @@
     <li style="font-size: 1.5em; font-weight: bold; color: #3F51B5;">OTHERS</li>
     <p align="left">
         <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://www.telestream.net/aws/images/aws.png" alt="aws" width="50" height="40"/></a>
-        <a href="https://kafka.apache.org" target="_blank" rel="noreferrer"><img src="https://openwhisk.apache.org/images/icons/icon-kafka-white-trans-tall.png" alt="kafka" width="40" height="40"/></a>
         <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/thumbs/2x/linux-tux-1-logo.png" alt="linux" width="50" height="40"/></a>  
         <a href="https://www.git-scm.com" target="_blank" rel="noreferrer"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="40" height="40"/></a>
         <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
