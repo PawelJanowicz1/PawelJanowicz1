@@ -50,7 +50,9 @@
         <a href="https://www.codewars.com/users/PawelJanowicz" target="_blank" rel="noreferrer"><img align="center" src="https://avatars.githubusercontent.com/u/5387632?s=280&v=4" alt="codewars" height="40" width="40"/></a>
     </p>
 </ul>
-
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paweljanowicz1&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="paweljanowicz1"/>
 </p>
+<a href="https://www.codewars.com/users/PawelJanowicz" target="_blank" rel="noreferrer">
+  <img align="center" src="https://www.codewars.com/users/PawelJanowicz/badges/large" alt="codewars badge" height="30" />
+</a>
