@@ -22,7 +22,7 @@
     <p align="left">
         <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
         <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1200px-Spring_Boot.svg.png" alt="spring" width="40" height="40"/></a>
-        <a href="https://jakarta.ee" target="_blank" rel="noreferrer"><img src="https://jakarta.ee/images/jakarta/jakarta_ee_400x400.png" alt="jakarta" width="40" height="40"/></a>
+        <a href="https://jakarta.ee" target="_blank" rel="noreferrer"><img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FJakarta_EE&ved=0CBYQjRxqFwoTCPDu1P_zgJIDFQAAAAAdAAAAABAH&opi=89978449" alt="jakarta" width="40" height="40"/></a>
         <a href="https://hibernate.org" target="_blank" rel="noreferrer"><img src="https://fs.siteor.com/javatech/files/hibernate2.png" alt="hibernate" width="40" height="40"/></a>
         <a href="https://kafka.apache.org" target="_blank" rel="noreferrer"><img src="https://openwhisk.apache.org/images/icons/icon-kafka-white-trans-tall.png" alt="kafka" width="40" height="40"/></a>
         <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"><img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit5" width="40" height="40"/></a> 
@@ -53,7 +53,22 @@
     </p>
 </ul>
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paweljanowicz1&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="paweljanowicz1"/>
+  <a href="https://github.com/paweljanowicz1">
+    <img
+      height="200"
+      align="center"
+      src="https://github-readme-stats.vercel.app/api?username=paweljanowicz1&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=percentile&custom_title=Pawel%20Janowicz%20GitHub%20Stats"
+      alt="Paweł Janowicz GitHub Stats"
+    />
+  </a>
+  <a href="https://github.com/paweljanowicz1">
+    <img
+      height="200"
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=paweljanowicz1&layout=compact&langs_count=8&card_width=320&theme=tokyonight"
+      alt="Top Languages"
+    />
+  </a>
 </p>
 <a href="https://www.codewars.com/users/PawelJanowicz" target="_blank" rel="noreferrer">
   <img align="center" src="https://www.codewars.com/users/PawelJanowicz/badges/large" alt="codewars badge" height="30" />
