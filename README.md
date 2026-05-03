@@ -57,7 +57,5 @@
 ### Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/paweł-janowicz-4238a2223" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin,stackoverflow" alt="LinkedIn and Stack Overflow" />
-  </a>
+<a href="https://linkedin.com/in/paweł-janowicz-4238a2223" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="https://stackoverflow.com/users/22591964" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow" /></a>
 </p>
