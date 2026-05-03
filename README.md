@@ -8,7 +8,7 @@
 
 - 💻 I work mainly with **Java** and **Spring Boot**
 - 🧩 I build backend applications, APIs and web systems
-- 🗄️ I use relational databases, Hibernate/JPA and SQL
+- 🗄️ I use relational and NoSQL databases, Hibernate/JPA and SQL
 - ⚙️ I also work with Angular, Docker, Git and Linux
 - 🚀 I like clean, practical and maintainable code
 
@@ -19,7 +19,7 @@
 #### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,kafka,maven,gradle,mysql,mongodb,postman" alt="Backend skills" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,kafka,maven,gradle,mysql,postgres,mongodb,postman" alt="Backend skills" />
 </p>
 
 #### Frontend
