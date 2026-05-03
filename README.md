@@ -19,7 +19,7 @@
 #### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,kafka,maven,gradle,mysql,mongodb" alt="Backend skills" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,kafka,maven,gradle,mysql,mongodb,postman" alt="Backend skills" />
 </p>
 
 #### Frontend
@@ -28,10 +28,28 @@
   <img src="https://skillicons.dev/icons?i=angular,html,css,ts,js" alt="Frontend skills" />
 </p>
 
-#### Tools & Others
+#### IDEs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,linux,postman,idea,github,gitlab,aws" alt="Tools and others" />
+  <img src="https://skillicons.dev/icons?i=idea,webstorm" alt="IDEs" />
+</p>
+
+#### DevOps & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws" alt="DevOps and cloud" />
+</p>
+
+#### Version Control
+
+<p>
+  <img src="https://skillicons.dev/icons?i=github,gitlab" alt="Version control" />
+</p>
+
+#### Operating Systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,apple,windows" alt="Operating systems" />
 </p>
 
 ---
